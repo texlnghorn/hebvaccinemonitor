@@ -1,0 +1,10 @@
+version: '3.0'
+services:
+  hebvaccinemonitor:
+    image: ghcr.io/texlnghorn/hebvaccinemonitor:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hebvaccinemonitor
+    env_file:
+      - dotenv

@@ -1,0 +1,25 @@
+# ** All configuration variables are optional **
+# Copy this file and name it as `dotenv` (without backticks)
+########################################################################################################
+
+ASCII_BANNER=
+ASCII_COLOR=
+DESKTOP_NOTIFICATIONS=
+EMAIL_PASSWORD=
+EMAIL_TO=
+EMAIL_USERNAME=
+HEB_VACCINE_CHECK_INTERVAL=
+HEB_VACCINE_LOCATION_URL=
+HEB_VACCINE_SCHEDULE_URL=
+LATITUDE=
+LONGITUDE=
+LOG_LEVEL=
+PHONE_CARRIER=
+PHONE_NUMBER=
+PLAY_SOUND=
+SHOW_ONLY_CITIES=
+SLACK_CHANNEL=
+SLACK_TOKEN=
+SMTP_ADDRESS=
+SMTP_PORT=
+WITHIN_DISTANCE=
