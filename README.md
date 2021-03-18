@@ -9,7 +9,7 @@ First and foremost, this service _will not_ automatically register you for a vac
 
 ## Quick start
 
-streetmerchant runs on Node.js:
+hebvaccinemonitor runs on Node.js:
 
 ```shell
 git clone https://github.com/texlnghorn/hebvaccinemonitor.git
